@@ -66,3 +66,4 @@ The project is completely software simulated and requires no physical PLC hardwa
 - AI Vision Inspection
 
 ---
+Working Video: https://youtu.be/ja28YgzeaEs

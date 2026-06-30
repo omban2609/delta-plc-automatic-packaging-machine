@@ -51,17 +51,6 @@ The project is completely software simulated and requires no physical PLC hardwa
 
 ---
 
-## Project Structure
-
-```
-PLC/
-HMI/
-Docs/
-Images/
-```
-
----
-
 ## Future Improvements
 
 - Alarm Management
